@@ -34,12 +34,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](dashboard_screenshot.png)
-
----
-
 ## 🚀 Author
 Jitesh Mhatre  
+
 Aspiring Data Analyst | Excel | SQL | Python
